@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="banner" width="100%" />
+<img src="./assets/banner" alt="banner" width="100%" />
 
 <h1 align="center">Hi, I’m Érika 👋💖</h1>
 
