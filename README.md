@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Érika 💖
 
-<!--
-**ErikaCepedaSanabria/ErikaCepedaSanabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta el rosa, las mariposas, el brilli-brilli y tener plantas con flores, casi tanto como la IA Generativa (sí, a la mía la llamo Lucy) ✨🦋🌸
 
-Here are some ideas to get you started:
+🎤 Hablo en comunidades y eventos para que la tecnología se entienda, se disfrute y se use de verdad  
+🤖 Últimamente estoy a tope con Copilot, GitHub Copilot y GitHub Spark  
+🧩 Me flipan las demos con toque friki: de “conjuro a código”, pero con risas  
+🌈 Diversidad e inclusión siempre en el centro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En este GitHub encontrarás
+- Contenido y assets de mis charlas (slides, demos y recursos)
+- Proyectos en TypeScript y cositas .NET/C#
+- Experimentos y prototipos para eventos
+
+## Si quieres colaborar
+- Propón tema / PR / idea en Issues
+- Si te mola una charla conjunta: me apunto 😄
