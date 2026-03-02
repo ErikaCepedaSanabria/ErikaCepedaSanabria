@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Érika banner" width="100%" />
+<img src="./assets/banner.png" alt="banner" width="100%" />
 
 <h1 align="center">Hi, I’m Érika 👋💖</h1>
 
@@ -20,11 +20,6 @@
 </p>
 
 <hr/>
-
-# Hi there, I’m Érika Cepeda 👋💖
-
-Me gusta el rosa, las mariposas, el brilli-brilli y tener plantas con flores, casi tanto como la IA Generativa… so yes, it’s normal que me chifle Copilot ✨🦋🌸  
-A mi IA generativa la llamo **Lucy** (she’s a queen) 👑🤖
 
 ## What I do (and why it’s fun) 🎤✨
 Soy **Marketing & PR** en el mundo tech, y mi superpoder es hacer que la tecnología se entienda, se disfrute y se use de verdad — incluso si no vienes “del lado técnico” 💅⚡  
