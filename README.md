@@ -1,4 +1,4 @@
-<img src="./assets/banner" alt="banner" width="100%" />
+<img src="./assets/baner.png" alt="Érika baner" width="100%" />
 
 <h1 align="center">Hi, I’m Érika 👋💖</h1>
 
@@ -20,6 +20,7 @@
 </p>
 
 <hr/>
+
 
 ## What I do (and why it’s fun) 🎤✨
 Soy **Marketing & PR** en el mundo tech, y mi superpoder es hacer que la tecnología se entienda, se disfrute y se use de verdad — incluso si no vienes “del lado técnico” 💅⚡  
