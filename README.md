@@ -3,8 +3,10 @@
 <h1 align="center">Hi, I’m Érika 👋💖</h1>
 
 <p align="center">
-  Me gusta el rosa, las mariposas, el brilli-brilli y tener muchas plantas con flores, casi tanto como la IA Generativa, así que es normal que me chifle Copilot ✨🦋🌸<br/>
-  Me encanta ser una persona no técnica hablando sobre tecnología para que todo el mundo pueda disfrutar de ella 💖
+ Me gusta el rosa, las mariposas, el brilli-brilli y tener muchas plantas con flores, casi tanto como la IA Generativa, así que es normal que me chifle Copilot ✨🦋🌸  
+I’m a non-technical tech storyteller: I make Copilot & GenAI feel human, fun, and usable for everyone ✨
+Me encanta ser una persona no técnica hablando sobre tecnología para que todo el mundo pueda disfrutar de ella 💖  
+
 </p>
 
 <p align="center">
