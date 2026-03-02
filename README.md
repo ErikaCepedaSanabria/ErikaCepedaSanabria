@@ -1,3 +1,26 @@
+<img src="./assets/banner.png" alt="Érika banner" width="100%" />
+
+<h1 align="center">Hi, I’m Érika 👋💖</h1>
+
+<p align="center">
+  Me gusta el rosa, las mariposas, el brilli-brilli y tener muchas plantas con flores, casi tanto como la IA Generativa, así que es normal que me chifle Copilot ✨🦋🌸<br/>
+  Me encanta ser una persona no técnica hablando sobre tecnología para que todo el mundo pueda disfrutar de ella 💖
+</p>
+
+<p align="center">
+  <a href="https://github.com/ErikaCepedaSanabria?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Explore-blue" alt="Repos" />
+  </a>
+  <a href="https://github.com/ErikaCepedaSanabria?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Sparkle-ff69b4" alt="Stars" />
+  </a>
+  <a href="https://github.com/ErikaCepedaSanabria?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Join%20the%20party-purple" alt="Followers" />
+  </a>
+</p>
+
+<hr/>
+
 # Hi there, I’m Érika Cepeda 👋💖
 
 Me gusta el rosa, las mariposas, el brilli-brilli y tener plantas con flores, casi tanto como la IA Generativa… so yes, it’s normal que me chifle Copilot ✨🦋🌸  
