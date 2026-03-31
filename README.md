@@ -23,6 +23,8 @@ Me encanta ser una persona no técnica hablando sobre tecnología para que todo 
 
 <hr/>
 
+🏆 **Microsoft MVP: M365 Copilot** 💜  
+🔗 MVP profile: https://mvp.microsoft.com/es-ES/MVP/profile/881826c3-ae52-460f-9b3c-837d085d33ce
 
 ## What I do (and why it’s fun) 🎤✨
 Soy **Marketing & PR** en el mundo tech, y mi superpoder es hacer que la tecnología se entienda, se disfrute y se use de verdad — incluso si no vienes “del lado técnico” 💅⚡  
